@@ -1,8 +1,5 @@
 ## Boas vindas ao meu perfil 😀
 
-Meu nome é Renato Ono e estou estudando Desenvolvimento Web Full Stack na escola Trybe 😎
-
-
 <br>
 
 <!-- GITHUB STATUS -->
